@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ORCID]](https://orcid.org/0000-0003-4631-1915)
 
 I am currently a PhD candidate in Purple Mountain Observatory (PMO) and University of Science and Technology of China (USTC).
 
