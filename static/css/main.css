@@ -104,7 +104,8 @@ section .main-body{
 }
 
 #avatar-section {
-    padding: 300px 0;
+    width: 50%;
+    height: 100%;
     text-align: center;
 }
 
@@ -115,8 +116,8 @@ section .main-body{
 }
 
 .large-avatar {
-    width: 300px;
-    height: 300px;
+    width: 600px;
+    height: 400px;
     object-fit: cover;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
