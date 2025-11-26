@@ -116,6 +116,7 @@ section .main-body{
 }
 
 .large-avatar {
+    position: relative;
     width: 600px;
     height: 400px;
     object-fit: cover;
@@ -123,6 +124,7 @@ section .main-body{
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     justify-content: center;
     align-items: center;
+    float: center;
 }
 @media screen and (max-width: 991px) {
     #avatar {
