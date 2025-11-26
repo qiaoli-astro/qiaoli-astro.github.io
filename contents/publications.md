@@ -14,7 +14,7 @@
 
 - <strong>Lei Lei</strong>,  et al. (2025). Can Dark Stars account for the star formation efficiency excess at very high redshifts?. <strong>ApJ</strong>. [[DOI]](https://doi.org/10.3847/1538-4357/ada93b)[[arXiv]](https://arxiv.org/abs/2501.07119)
 
-- <strong>Lei Lei</strong>, et al. (2023). Limiting Magnitudes of the Wide Field Survey Telescope (WFST). <strong>RAA</strong>. [[DOI]](https://doi.org/10.1088/1674-4527/acb877)[[arXiv]](https://arxiv.org/abs/2301.03068) 
+- <strong>Lei Lei</strong>, et al. (2023). Limiting Magnitudes of the Wide Field Survey Telescope (WFST). <strong>RAA</strong>. [[DOI]](https://doi.org/10.1088/1674-4527/acb877)[[arXiv]](https://arxiv.org/abs/2301.03068)[[Code-Github]](https://github.com/Leilei-astro/WFST-limiting-magnitudes) 
 
 - <strong>Lei Lei</strong>, et al. (2022). Identifications of RR Lyrae Stars and Quasars from the Simulated Data of Mephisto-W Survey. <strong>RAA</strong>. [[DOI]](https://doi.org/10.1088/1674-4527/ac3adc)[[arXiv]](https://arxiv.org/abs/2111.08316)
 
@@ -24,7 +24,7 @@
 
 - Yu-Xuan Chen, <strong>Lei Lei</strong>, et al. (2025). Searching for Axionlike Particles with X-Ray Observations of Alpha Centauri. <strong>PRL</strong>. [[DOI]](https://doi.org/10.1103/wy1x-1lh7)[[arXiv]](https://arxiv.org/abs/2410.16065)
 
-- Yi-Ying Wang, <strong>Lei Lei</strong>, et al. (2023). Modeling the JWST High-redshift Galaxies with a General Formation Scenario and the Consistency with the $\Lambda$CDM Model. <strong>ApJL</strong>. [[DOI]](https://doi.org/10.3847/2041-8213/acf46c)[[arXiv]](https://arxiv.org/abs/2307.12487)
+- Yi-Ying Wang, <strong>Lei Lei</strong>, et al. (2023). Modeling the JWST High-redshift Galaxies with a General Formation Scenario and the Consistency with the \Lambda CDM Model. <strong>ApJL</strong>. [[DOI]](https://doi.org/10.3847/2041-8213/acf46c)[[arXiv]](https://arxiv.org/abs/2307.12487)
 
 - Guan-Wen Yuan, <strong>Lei Lei</strong>, et al. (2024). Rapidly growing primordial black holes as seeds of the massive high-redshift JWST Galaxies. <strong>SCPMA</strong>. [[DOI]](https://doi.org/10.1007/s11433-024-2433-3)[[arXiv]](https://arxiv.org/abs/2303.09391)
 
