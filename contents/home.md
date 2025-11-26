@@ -12,7 +12,7 @@ Email: leilei[at]pmo.ac.cn
 
 #### Education
 <strong>PhD., Astrophysics</strong> \
-Purple Mountain Observatory (PMO) and University of Science and Technology of China (USTC), 2023—2026. \
+PMO & USTC, 2023—2026. \
 USTC Motto:"红专并进，理实交融(Moral and Professional, Theory with Experiment)"\
 Supervisors: <strong>Yi-Zhong Fan</strong> ([[范一中]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243894.html)).  
 
