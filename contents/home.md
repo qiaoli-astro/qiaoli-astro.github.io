@@ -25,5 +25,5 @@ Undergraduate Science Project Advisor: Bing-Qiu Chen ([[陈丙秋]](https://baik
 Bachelor Thesis Advisor: Peng-Fei Zhang ([[张鹏飞]](http://www.science.ynu.edu.cn/info/1152/2035.htm)) & Yi-Zhong Fan ([[范一中]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243894.html)). 
 
 #### Research Interests
-Dark Matter, Dark Energy, Sky Survey.
+Dark Matter, Dark Energy, Sky Survey, Observational Cosmology, Gravitaional Strong Lensing, X-Ray Astronomy, High red-shift Galaxies and First Star Formation.
 
