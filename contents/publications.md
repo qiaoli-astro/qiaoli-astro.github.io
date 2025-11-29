@@ -20,7 +20,7 @@
 
 - <strong>Lei Lei</strong>, et al. (2021). On the Exposure Time of the Mephisto-W Survey (云南大学多通道测光巡天望远镜W巡天曝光时间优化). <strong>Astronomical Research and Technology(天文研究与技术)</strong>. [[DOI]](https://dx.doi.org/10.14005/j.cnki.issn1672-7673.20200713.001)[[ChinaXiv]](https://chinaxiv.org/abs/202007.00022)
 
-- Ze-Fan Wang, <strong>Lei Lei*</strong>, et al. (2024). JWST observations constrain the time evolution of fine structure constants and dark energy-electromagnetic coupling. <strong>RAA</strong>. <strong>journal [[Highlight]](https://www.raa-journal.org/issues/high/202501/t20250102_304292.html)</strong>  [[DOI]](https://doi.org/10.1088/1674-4527/ad9198)[[arXiv]](https://arxiv.org/abs/2411.08774)
+- Ze-Fan Wang, <strong>Lei Lei*</strong>, et al. (2024). JWST observations constrain the time evolution of fine structure constants and dark energy-electromagnetic coupling. <strong>RAA</strong>. <strong>[[journal Highlight]](https://www.raa-journal.org/issues/high/202501/t20250102_304292.html)</strong>  [[DOI]](https://doi.org/10.1088/1674-4527/ad9198)[[arXiv]](https://arxiv.org/abs/2411.08774)
 
 - Yu-Xuan Chen, <strong>Lei Lei</strong>, et al. (2025). Searching for Axionlike Particles with X-Ray Observations of Alpha Centauri. <strong>PRL</strong>. [[DOI]](https://doi.org/10.1103/wy1x-1lh7)[[arXiv]](https://arxiv.org/abs/2410.16065)
 
