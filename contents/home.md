@@ -1,41 +1,39 @@
 
 
-[[ORCID]](https://orcid.org/0000-0003-4631-1915) 
+[[ORCID]](https://orcid.org/0000-0001-7540-9335) 
 
-I am currently a PhD candidate in Purple Mountain Observatory (PMO紫金山天文台) and University of Science and Technology of China (USTC中国科学技术大学). 
+I am currently a postdoc in Purple Mountain Observatory (PMO,紫金山天文台) .
+I got PhD in University of Science and Technology of China (USTC,中国科学技术大学). 
 
-I was born and raised in two villages in Gansu (陇中) Province in western China, called BuDong (堡东,天水) Village and CiWa (茨屲,定西) Village, where there are brilliant starry skies, rolling mountains, shallow dams, and slender rivers.
+I was born and raised in Tongliang district in ChongQing (重庆) City in western China, where there full of endless delicious food.
 
 #### Contact
 
-Email: leilei[at]pmo.ac.cn
+Email: qiaoli[at]pmo.ac.cn
 
 #### Education
 <strong>PhD., Astrophysics</strong> \
-PMO & USTC, 2023—2026. \
+PMO & USTC, 2019—2025. \
 USTC Motto:"红专并进，理实交融(Moral and Professional, Theory with Experiment)"\
-Supervisors: <strong>Yi-Zhong Fan</strong> ([[范一中]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243894.html)).  
+Supervisors: <strong>Ying Li</strong> ([李瑛]](https://pmo.cas.cn/sourcedb/cn/expert/201901/t20190122_5232494.html)) & <strong>Hui Li</strong> (黎辉]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243540.html)).  
 
 <strong>Master., Astrophysics</strong> \
 PMO & USTC, 2021—2023. \
-Supervisors: <strong>Da-Ming Wei</strong> ([[韦大明]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243681.html)) & <strong>Yi-Zhong Fan</strong> ([[范一中]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243894.html)) \
-No Thesis and no Degree, Master to Ph.D. in summer of 2023. 
+Supervisors: <strong>Hui Li</strong> (黎辉]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243540.html)) & <strong>Ying Li</strong> ([李瑛]](https://pmo.cas.cn/sourcedb/cn/expert/201901/t20190122_5232494.html)) \
+No Thesis and no Degree, Master to Ph.D. in summer of 2022. 
 
-<strong>Bachelor., Astronomy</strong>, Outstanding Graduate. \
-Yunnan University (YNU), 2017—2021. \
-YNU Spirit:"会泽百家，至公天下(All kinds of wisdom, the world belongs to everyone)"\
-Supervisors: \
-Undergraduate Science Project Advisor: <strong>Bing-Qiu Chen</strong> ([[陈丙秋]](https://baike.baidu.com/item/%E9%99%88%E4%B8%99%E7%A7%8B/64040029)), \
-Bachelor Thesis Advisor: <strong>Peng-Fei Zhang</strong> ([[张鹏飞]](http://www.science.ynu.edu.cn/info/1152/2035.htm)) & <strong>Yi-Zhong Fan</strong> ([[范一中]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243894.html)). 
+<strong>Bachelor., Physics</strong> \
+Chongqing Normal University (CQNU), 2015—2019. \
+YNU Spirit:"自强不息 躬行师道(Self-improvement and practice the teachings)"\
 
 #### Research Interests
-Dark Matter, Dark Energy, Sky Survey, Observational Cosmology, Gravitaional Strong Lensing, X-Ray Astronomy, High red-shift Galaxies and First Star Formation.
+Solar flare; Solar ultraviolet emissions; White-light flare; Solar X-ray emissions
 
-#### My wife Dr. Qiao Li(李巧)[[ORCID]](https://orcid.org/0000-0001-7540-9335)
-- Dr. Li is a postdoc Solarphysicist in PMO.
-Her hometown is Chongqing(重庆), a city full of endless delicious food. 
+#### My husband Lei Lei(雷磊)[[ORCID]](https://orcid.org/0000-0003-4631-1915)
+- Lei is a PhD candidate in USTC & PMO.
+His hometown is GanSu(陇中). 
 
 - Researches: \
-Solar flares physics and observations, High energy solar particles, Hard X-ray solar emission, Thermal and Non-thermal mechanism of flares, Image alignment. 
+Dark Matter, Dark Energy, Sky Survey, Observational Cosmology, Gravitaional Strong Lensing, X-Ray Astronomy, High red-shift Galaxies and First Star Formation.
 
 
