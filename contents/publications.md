@@ -1,9 +1,9 @@
 
 #### Published
 
-- <strong>Qiao Li</strong>, et al. (2024). Spectral and Imaging Observations of a C2.3 White-Light Flare from the Advanced Space-Based Solar Observatory (ASO-S) and the Chinese \ha\ Solar Explorer (CHASE). <strong>Solar Physics</strong>. [[DOI]](https://link.springer.com/article/10.1007/s11207-024-02313-y)[[arXiv]](https://arxiv.org/abs/2405.01308)
+- <strong>Qiao Li</strong>, et al. (2024). Spectral and Imaging Observations of a C2.3 White-Light Flare from the Advanced Space-Based Solar Observatory (ASO-S) and the Chinese H\alpha Solar Explorer (CHASE). <strong>Solar Physics</strong>. [[DOI]](https://link.springer.com/article/10.1007/s11207-024-02313-y)[[arXiv]](https://arxiv.org/abs/2405.01308)
 
-- Y. Li, <strong>Qiao Li</strong>, et al. (2022). The \lya\ Emission in a C1.4 Solar Flare Observed by the Extreme Ultraviolet Imager aboard Solar Orbiter. <strong>ApJ</strong>. [[DOI]](https://iopscience.iop.org/article/10.3847/1538-4357/ac897c)[[arXiv]](https://arxiv.org/abs/2208.06182) 
+- Y. Li, <strong>Qiao Li</strong>, et al. (2022). The Lyman\alpha Emission in a C1.4 Solar Flare Observed by the Extreme Ultraviolet Imager aboard Solar Orbiter. <strong>ApJ</strong>. [[DOI]](https://iopscience.iop.org/article/10.3847/1538-4357/ac897c)[[arXiv]](https://arxiv.org/abs/2208.06182) 
 
 - L. Lei, Y.-Y. Wang, <strong>Qiao Li</strong>,  et al. (2025). A dense dark matter core of the subhalo in the strong lensing system JVAS B1938+ 666. [[DOI]](https://doi.org/10.3847/2041-8213/ae047c)[[arXiv]](https://arxiv.org/abs/2509.07808)
 
