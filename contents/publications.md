@@ -31,6 +31,6 @@
 
 - Z.C. Jing, Y. Li, L. Feng, ..., <strong>Qiao Li</strong>, et al. (2024). A Statistical Study of Solar White-Light Flares Observed by the White-Light Solar Telescope of the Lyman-Alpha Solar Telescope on the Advanced Space-Based Solar Observatory (ASO-S/LST/WST) at 360 nm. <strong>Solar Physics</strong>. [[DOI]](https://doi.org/10.1007/s11207-024-02251-9)[[arXiv]](https://arxiv.org/abs/2401.07275)
 
-- J.C. Xue, L. Feng, H. Li, ..., <strong>Qiao Li </strong>. (2024). Association Between a Failed Prominence Eruption and the Drainage of Mass from Another Prominence. <strong>Solar Physics</strong>. [[DOI]](https://doi.org/10.1007/s11207-024-02336-5)
+- J.C. Xue, L. Feng, H. Li, ..., <strong>Qiao Li </strong>, et al. (2024). Association Between a Failed Prominence Eruption and the Drainage of Mass from Another Prominence. <strong>Solar Physics</strong>. [[DOI]](https://doi.org/10.1007/s11207-024-02336-5)
 
-- B. Chen, L. Feng, G. Zhang, ..., <strong>Qiao Li </strong>. (2024). Inflight Performance and Calibrations of the Lyman-Alpha Solar Telescope on Board the Advanced Space-Based Solar Observatory. <strong>Solar Physics</strong>. [[DOI]](https://doi.org/10.1007/s11207-024-02354-3)
+- B. Chen, L. Feng, G. Zhang, ..., <strong>Qiao Li </strong>, et al. (2024). Inflight Performance and Calibrations of the Lyman-Alpha Solar Telescope on Board the Advanced Space-Based Solar Observatory. <strong>Solar Physics</strong>. [[DOI]](https://doi.org/10.1007/s11207-024-02354-3)
