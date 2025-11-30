@@ -1,10 +1,10 @@
 
-- National Scholarship, Ministry of Education, China, 2025.
+- Chinese Astronomical Society, Membership, Nov 2025--Present
 
-- President's Award of the Nanjing Branch of the Chinese Academy of Sciences, CAS, 2025.
+- Jiangsu Astronomical Society, Membership, Jul 2025--Present
 
-- Excellent Invited Presentation Award at the Spring Meeting of the Jiangsu Physics Society, 2024.
+- Outstanding Graduate, USTC, Jun 2025
 
-- Excellent Presentation Award at the Spring Meeting of the Jiangsu Physics Society, 2023.
+- 1st Academic Scholarship (annually), USTC, 2020--2025
 
-- National Scholarship, Ministry of Education, China, 2022.
+- National Encouragement Scholarship, CQNU, Nov 2017
