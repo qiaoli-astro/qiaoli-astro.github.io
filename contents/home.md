@@ -9,7 +9,7 @@ I was born and raised in Tongliang district in ChongQing (重庆) City in wester
 
 #### Contact
 
-Email: qiaoli[at]pmo.ac.cn
+Email: qiaoli@pmo.ac.cn
 
 #### Education
 <strong>PhD., Astrophysics</strong> \
@@ -20,11 +20,11 @@ Supervisors: <strong>Ying Li</strong> [[李瑛]](https://pmo.cas.cn/sourcedb/cn/
 <strong>Master., Astrophysics</strong> \
 PMO & USTC, 2021—2023. \
 Supervisors: <strong>Hui Li</strong> [[黎辉]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243540.html) & <strong>Ying Li</strong> [[李瑛]](https://pmo.cas.cn/sourcedb/cn/expert/201901/t20190122_5232494.html) \
-No Thesis and no Degree, Master to Ph.D. in summer of 2022. 
+No Thesis and no Degree, Master to PhD in summer of 2022. 
 
 <strong>Bachelor., Physics</strong> \
 Chongqing Normal University (CQNU), 2015—2019. \
-YNU Spirit:"自强不息 躬行师道(Self-improvement and practice the teachings)"\
+CQNU Spirit:"自强不息 躬行师道(Self-improvement and practice the teachings)"\
 
 #### Research Interests
 Solar flare; Solar ultraviolet emissions; White-light flare; Solar X-ray emissions
