@@ -13,7 +13,7 @@
 
 - D.-C. Song, Marie Dominique, Ivan Zimovets, <strong>Qiao Li</strong>, et al. (2025). Unveiling Spatiotemporal Properties of the Quasi-periodic Pulsations in the Balmer Continuum at 3600 \AA\ in an X-class Solar White-light Flare. <strong>ApJL</strong>. [[DOI]](https://doi.org/10.3847/2041-8213/adc4e9)[[arXiv]](https://arxiv.org/abs/2504.02415)
 
-- Y. Li, Z.C. Jing, D.-C. Song,  <strong>Qiao Li*</strong>, et al. (2024). The White-light Emissions in Two X-class Flares Observed by ASO-S and CHASE. <strong>ApJL</strong>. [[DOI]](https://iopscience.iop.org/article/10.3847/2041-8213/ad27ca)[[arXiv]](https://arxiv.org/abs/2402.07374)
+- Y. Li, Z.C. Jing, D.-C. Song,  <strong>Qiao Li</strong>, et al. (2024). The White-light Emissions in Two X-class Flares Observed by ASO-S and CHASE. <strong>ApJL</strong>. [[DOI]](https://iopscience.iop.org/article/10.3847/2041-8213/ad27ca)[[arXiv]](https://arxiv.org/abs/2402.07374)
 
 - Z.C. Jing, Y. Li, J.W. Li, <strong>Qiao Li</strong>. (2025). The M-and X-class White-light Flares in Super Active Region NOAA 13664/13697 Observed by ASO-S/LST/WST. <strong>ApJ</strong>. [[DOI]](https://iopscience.iop.org/article/10.3847/1538-4357/ae0708)[[arXiv]](https://arxiv.org/abs/2509.11029)
 
