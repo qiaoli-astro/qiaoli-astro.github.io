@@ -24,7 +24,7 @@ No Thesis and no Degree, Master to PhD in summer of 2022.
 
 <strong>Bachelor., Physics</strong> \
 Chongqing Normal University (CQNU), 2015—2019. \
-CQNU Spirit:"自强不息 躬行师道(Self-improvement and practice the teachings)"\
+CQNU Spirit:"自强不息 躬行师道(Self-improvement and practice the teachings)"
 
 #### Research Interests
 Solar flare; Solar ultraviolet emissions; White-light flare; Solar X-ray emissions
