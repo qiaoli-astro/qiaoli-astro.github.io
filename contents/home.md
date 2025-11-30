@@ -30,10 +30,8 @@ YNU Spirit:"自强不息 躬行师道(Self-improvement and practice the teaching
 Solar flare; Solar ultraviolet emissions; White-light flare; Solar X-ray emissions
 
 #### My husband [[Lei Lei(雷磊)]](https://leilei-astro.github.io/)
-- Lei is a PhD candidate in USTC & PMO.
-His hometown is GanSu(陇中). 
-
-- Researches: \
+- Lei is a PhD candidate in USTC & PMO. His hometown is GanSu(陇中). \
+Researches: \
 Dark Matter, Dark Energy, Sky Survey, Observational Cosmology, Gravitaional Strong Lensing, X-Ray Astronomy, High red-shift Galaxies and First Star Formation.
 
 
