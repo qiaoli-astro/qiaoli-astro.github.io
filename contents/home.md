@@ -18,7 +18,7 @@ USTC Motto:"红专并进，理实交融(Moral and Professional, Theory with Expe
 Supervisors: <strong>Ying Li</strong> [[李瑛]](https://pmo.cas.cn/sourcedb/cn/expert/201901/t20190122_5232494.html) & <strong>Hui Li</strong> [[黎辉]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243540.html).  
 
 <strong>Master., Astrophysics</strong> \
-PMO & USTC, 2021—2023. \
+PMO & USTC, 2019—2022. \
 Supervisors: <strong>Hui Li</strong> [[黎辉]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243540.html) & <strong>Ying Li</strong> [[李瑛]](https://pmo.cas.cn/sourcedb/cn/expert/201901/t20190122_5232494.html) \
 No Thesis and no Degree, Master to PhD in summer of 2022. 
 
