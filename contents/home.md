@@ -31,6 +31,6 @@ Solar flare; Solar ultraviolet emissions; White-light flare; Solar X-ray emissio
 
 #### My husband [[Lei Lei(雷磊)]](https://leilei-astro.github.io/)
 Lei is a PhD candidate in USTC & PMO. His hometown is GanSu(陇中). \
-Researches: Dark Matter, Dark Energy, Sky Survey, Observational Cosmology, Gravitaional Strong Lensing, X-Ray Astronomy, High red-shift Galaxies and First Star Formation.
+Researches: Dark Matter, Dark Energy, Sky Survey, Observational Cosmology, Gravitational Strong Lensing, X-Ray Astronomy, High red-shift Galaxies and First Star Formation.
 
 
