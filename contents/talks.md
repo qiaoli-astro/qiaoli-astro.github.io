@@ -5,7 +5,7 @@ Dual-perspective Lyman\alpha Emissions in a C3.3 Solar Flare Observed by SolO/EU
 The Lyman\alpha Emission in Solar Flares. III. a Statistical Study on Its Relationship with the HXR Emission
 
 - Hinode-16/IRIS-13 Joint Science Meeting, Sep 2023\
-Spectral and Imaging Observations of a C2.3 White-Light Flare from ASO-S and CHASE}{Poster
+Spectral and Imaging Observations of a C2.3 White-Light Flare from ASO-S and CHASE
 
 - Hinode-14/IRIS-11 Joint Science Meeting, Oct 2021\
 The Lyman\alpha Emission in Solar Flares. III. a Statistical Study on Its Relationship with the HXR Emission
