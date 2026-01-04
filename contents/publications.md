@@ -5,7 +5,7 @@
 
 - Y. Li, <strong>Qiao Li</strong>, et al. (2022). The Lyman\alpha Emission in a C1.4 Solar Flare Observed by the Extreme Ultraviolet Imager aboard Solar Orbiter. <strong>ApJ</strong>. [[DOI]](https://iopscience.iop.org/article/10.3847/1538-4357/ac897c)[[arXiv]](https://arxiv.org/abs/2208.06182) 
 
-- L. Lei, Y.-Y. Wang, <strong>Qiao Li</strong>,  et al. (2025). A dense dark matter core of the subhalo in the strong lensing system JVAS B1938+ 666. [[DOI]](https://doi.org/10.3847/2041-8213/ae047c)[[arXiv]](https://arxiv.org/abs/2509.07808)
+- L. Lei, Y.-Y. Wang, <strong>Qiao Li</strong>,  et al. (2025). A dense dark matter core of the subhalo in the strong lensing system JVAS B1938+ 666. <strong>ApJL</strong>. [[DOI]](https://doi.org/10.3847/2041-8213/ae047c)[[arXiv]](https://arxiv.org/abs/2509.07808)
 
 - L. F. Wang, Y. Li, <strong>Qiao Li</strong>, et al. (2023). Spectral Features of the Solar Transition Region and Chromospheric Lines at Flare Ribbons Observed with IRIS. <strong>ApJS</strong>.  [[DOI]](https://iopscience.iop.org/article/10.3847/1538-4365/acf127)[[arXiv]](https://arxiv.org/abs/2308.11275)
 
