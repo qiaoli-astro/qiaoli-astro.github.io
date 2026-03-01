@@ -3,6 +3,8 @@
 [[ORCID]](https://orcid.org/0000-0001-7540-9335) 
 
 I am currently a postdoc in Purple Mountain Observatory (PMO,紫金山天文台) .
+Researches: Solar flares physics and observations, High energy solar particles, Hard X-ray solar emission, Thermal and Non-thermal mechanism of flares, Image alignment. 
+
 I got PhD in University of Science and Technology of China (USTC,中国科学技术大学). 
 
 I was born and raised in Tongliang district in ChongQing (重庆) City in western China, where there full of endless delicious food.
@@ -30,7 +32,6 @@ CQNU Spirit:"自强不息 躬行师道(Self-improvement and practice the teachin
 Solar flare; Solar ultraviolet emissions; White-light flare; Solar X-ray emissions
 
 #### My husband [[Lei Lei(雷磊)]](https://leilei-astro.github.io/)
-Lei is a PhD candidate in USTC & PMO. His hometown is GanSu(陇中). \
-Researches: Dark Matter, Dark Energy, Sky Survey, Observational Cosmology, Gravitational Strong Lensing, X-Ray Astronomy, High red-shift Galaxies and First Star Formation.
+Lei is a PhD candidate in USTC & PMO. His hometown is GanSu. Researches: Dark Matter, Dark Energy, Sky Survey, Observational Cosmology, Gravitational Strong Lensing, X-Ray Astronomy, High red-shift Galaxies and First Star Formation.
 
 
